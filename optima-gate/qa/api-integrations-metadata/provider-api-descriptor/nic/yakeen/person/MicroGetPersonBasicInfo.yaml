@@ -1,0 +1,7 @@
+#################### Api Information ####################
+
+name: "MicroGetPersonBasicInfo"
+type: "REST"
+method: "POST"
+cashPeriod: "9d" #(ns|ms|sec|min|hr|d|wk|mo|yr)
+url: "{providers.info.base-url.nic.yakeen}/NIC/Yakeen/api/Person/MicroGetPersonBasicInfo"
