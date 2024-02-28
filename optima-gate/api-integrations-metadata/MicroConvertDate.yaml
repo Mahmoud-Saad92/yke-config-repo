@@ -1,0 +1,8 @@
+#################### Api Information ####################
+
+name: "MicroConvertDate"
+type: "REST"
+method: "POST"
+cashPeriod: "1yr" #(ns|ms|sec|min|hr|d|wk|mo|yr)
+url: "{providers.info.base-url.nic.yakeen}/NIC/Yakeen/api/Lookup/MicroConvertDate"
+
